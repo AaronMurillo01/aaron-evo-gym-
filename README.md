@@ -1,4 +1,4 @@
-In this comprehensive guide, I demonstrate my expertise in building and deploying a complete Typescript fitness application called Evo-Gym. The frontend of the application showcases my proficiency in using cutting-edge technologies, including React, Typescript, Vite, Tailwind, Hero Icons, Framer Motion, Form Submit, and React Anchor Link Smooth Scroll. To ensure a seamless user experience, I employed Cloudflare Pages for deployment.
+I demonstrate my expertise in building and deploying a complete Typescript fitness application called Evo-Gym. The frontend of the application showcases my proficiency in using cutting-edge technologies, including React, Typescript, Vite, Tailwind, Hero Icons, Framer Motion, Form Submit, and React Anchor Link Smooth Scroll. To ensure a seamless user experience, I employed Cloudflare Pages for deployment.
 
 Here are some screenshots.
 
